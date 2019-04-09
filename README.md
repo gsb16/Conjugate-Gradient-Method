@@ -4,13 +4,13 @@
 Gabriel de Souza Barreto
 GRR20166812
 
-##Arquivos
-###Lista de arquivos:
+## Arquivos
+### Lista de arquivos:
 - *cgSolver.c* : Programa principal
 - *utils.c*: Funções auxiliares usadas em cgSolver
 
 ## Makefile
-###Opções:
+### Opções:
 - *make*: Compila o programa executável cgSolver
 - *make clean*: Deleta o executável e a documentação gerada
 - *make doc*: Gera a documentação do projeto e link simbólico doc.html
